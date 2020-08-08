@@ -1,12 +1,12 @@
 # Rotten Leather
 
-A simple datapack to convert [Rotten Flesh][RF] to [Leather].
+A simple datapack that allows crafting [Leather] from [Rotten Flesh][RF].
 
 ## Installation
 
 1. [Download this repository][DL] as a [`.zip`][DL] file
-2. Put it [into your world folder][Install]
-3. Run `/datapack enable ` and check the tab completion to enable the datapack
+2. Extract the contained folder [into your world's `datapacks` folder][Install]
+3. Run `/datapack enable` and check the tab completion to enable the datapack
 
 ## Inspiration
 
