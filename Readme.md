@@ -1,6 +1,6 @@
 # Rotten Leather
 
-A simple datapack that allows crafting [Leather] from [Rotten Flesh][RF].
+A simple datapack that allows smelting and using the smoker to turn [Rotten Flesh][RF] into [Leather].
 
 ## Installation
 
